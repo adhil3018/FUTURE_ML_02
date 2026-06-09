@@ -33,6 +33,21 @@ The system uses text preprocessing techniques, TF-IDF (Term Frequency-Inverse Do
 4. Model Training using LinearSVC
 5. Model Evaluation
 6. Deployment using Streamlit
+   
+## Results
+
+- The trained LinearSVC model achieved an accuracy of approximately 20–25% on the test dataset.
+
+## Challenges & Limitations
+
+Due to overlapping ticket descriptions and the synthetic nature of the dataset, the model struggled to distinguish between categories effectively, resulting in relatively low accuracy. This highlighted the importance of high-quality, well-separated, and realistic datasets in machine learning applications.
+
+## Future Improvements
+
+- Use real-world customer support datasets.
+- Experiment with advanced NLP models such as BERT.
+- Perform hyperparameter tuning and feature engineering.
+- Address class overlap through improved data collection and preprocessing.
 
 This project demonstrates the practical application of NLP and Machine Learning techniques for automating customer support workflows and improving ticket management efficiency.
 =======
