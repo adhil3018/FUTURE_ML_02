@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # AI Customer Support Ticket Classifier
 
 This project is a Natural Language Processing (NLP) based machine learning application that automatically classifies customer support tickets into predefined categories such as Billing Inquiry, Technical Issue, Product Inquiry, Refund Request, and Cancellation Request.
